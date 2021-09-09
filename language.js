@@ -9,3 +9,8 @@ const res = await fetch("https://libretranslate.de/translate", {
 });
 
 console.log(await res.json());
+
+
+
+
+//this is the first project
